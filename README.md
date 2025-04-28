@@ -1,4 +1,4 @@
-# Ex.No: 3 Evaluation of Prompting Tools Across Diverse AI Platforms**
+# Ex.No: 3 Evaluation of Prompting Tools Across Diverse AI Platforms
 
 ### DATE: 
 ### REGISTER NUMBER: 212222220047
