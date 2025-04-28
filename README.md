@@ -1,4 +1,3 @@
-# Exno-3-Prompt-Engg
 
 # Ex.No: 3 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
 ChatGPT, Claude, Bard, Cohere Command, and Meta 
