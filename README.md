@@ -1,6 +1,6 @@
 # Ex.No: 3 Evaluation of Prompting Tools Across Diverse AI Platforms
 
-### DATE: 
+### NAME: SINDHUJA P
 ### REGISTER NUMBER: 212222220047
 
 
